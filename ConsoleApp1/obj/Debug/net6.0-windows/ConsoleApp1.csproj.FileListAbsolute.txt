@@ -1,0 +1,17 @@
+D:\study\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe
+D:\study\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.deps.json
+D:\study\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.runtimeconfig.json
+D:\study\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.dll
+D:\study\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.AssemblyReference.cache
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.AssemblyInfoInputs.cache
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.AssemblyInfo.cs
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.dll
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\refint\ConsoleApp1.dll
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.pdb
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.genruntimeconfig.cache
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ref\ConsoleApp1.dll
+D:\study\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\study\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.CopyComplete
